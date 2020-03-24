@@ -1,11 +1,11 @@
 def position_taken?(board, index)
   if board.length() > 0
-    value = board[index]
-    if value != nil
+    # value = board[index]
+    # if value
       return value.strip != ""
-    else
-      return false
-    end
+    # else
+    #   return false
+    # end
   else
     false
   end
