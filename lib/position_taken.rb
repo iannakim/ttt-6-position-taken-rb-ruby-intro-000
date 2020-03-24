@@ -2,7 +2,7 @@ def position_taken?(board, index)
   if board.length() > 0
     # value = board[index]
     # if value
-      return board[index].strip != ""
+      board[index].strip != ""
     # else
     #   return false
     # end
