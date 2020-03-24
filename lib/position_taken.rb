@@ -1,4 +1,4 @@
 def position_taken?(board, index)
-  value = board[index].strip
+  value = board[index]
   return value != ""
 end
