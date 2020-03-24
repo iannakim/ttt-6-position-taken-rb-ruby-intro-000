@@ -13,5 +13,5 @@ end
 
 # position_taken?([], 0)
 "hello ".strip
-5.strip
+nil.strip
 [].strip
