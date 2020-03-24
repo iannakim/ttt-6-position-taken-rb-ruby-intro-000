@@ -11,4 +11,7 @@ def position_taken?(board, index)
   # end
 end
 
-position_taken?([], 0)
+# position_taken?([], 0)
+"hello ".strip
+5.strip
+[].strip
